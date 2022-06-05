@@ -1,0 +1,38 @@
+{
+    "obstacle": {
+        "immediate": [
+            "obst_immediate_1.wav"
+        ],
+        "wait_short": [
+            "obst_wait_short_1.wav"
+        ],
+        "wait_long": [
+            "obst_wait_long_1.wav"
+        ]
+    },
+    "delivery": {
+        "Wait0": [
+            "del_wait0_sante.wav",
+            "del_wait1_sante.wav",
+            "del_wait0_sante.wav",
+            "del_wait1_sante.wav"
+        ],
+        "wait1": [
+            "del_wait1.wav"
+        ],
+        "wait2": [
+            "del_wait2.wav"
+        ]
+    },
+    "help": {
+        "stuck": [
+            "help_stuck.wav"
+        ],
+        "turn": [
+            "help_turn.wav"
+        ],
+        "iets": [
+            "help_iets.wav"
+        ]
+    }
+}
